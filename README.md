@@ -7,7 +7,7 @@ Installation
 ------------
 
     cp .zshrc ~/.zshrc
-    mkdir bin
+    mkdir -p ~/bin
     cp bin/* ~/bin/
     chmod +x ~/bin/git-current-branch
     chmod +x ~/bin/git-cwd-info.rb
