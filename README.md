@@ -10,7 +10,7 @@ Installation
     mkdir -p ~/bin
     cp bin/* ~/bin/
     chmod +x ~/bin/git-current-branch
-    chmod +x ~/bin/git-cwd-info.rb
+    chmod +x ~/bin/git-cwd-info
 
 
 About
